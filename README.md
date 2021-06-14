@@ -10,10 +10,10 @@ Organiser and instructor: [Isabella Gollini](https://sites.google.com/site/isabe
 
 ## Computing requirements
 
-Participants are required to bring their own laptops. Laptops should have the following installed **prior** to attending the workshop:
+During the sessions there will be limited time for the students to practice, and they need to have the following installed **prior** to attending the sessions:
 
-- R (>= 3.5.0)
-- RStudio (>= 1.1.447)
+- R (>= 4.0.5)
+- RStudio (>= 1.4.1106)
 
 If you have older versions of R/RStudio installed, it is recommended that you
 install the latest versions if possible. Instructions for installing all these
