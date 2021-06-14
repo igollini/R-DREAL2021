@@ -4,11 +4,9 @@ Organiser and instructor: [Isabella Gollini](https://sites.google.com/site/isabe
 
 **Topic covered:**
 
-*Part 1: Introduction to R and RStudio*
-This session will give an overview of R and RStudio as well as an introduction to dynamic documents with R Markdown. The session will continue by providing practical examples to help users get the most out of the data import and handling tools.
+*Part 1: Introduction to R and RStudio*: This session will give an overview of R and RStudio as well as an introduction to dynamic documents with R Markdown. The session will continue by providing practical examples to help users get the most out of the data import and handling tools.
 
-*Part 2: Data manipulation and exploration with R*
-This session will demonstrate how to use the R package `dplyr` to perform data manipulation by filtering, selecting and mutating variables, and to obtain summaries. This talk will continue with an overview of visualisation techniques using base R and the package `ggplot2`. Throughout this session we will make use of R Markdown to create automating reproducible analysis.
+*Part 2: Data manipulation and exploration with R*: This session will demonstrate how to use the R package `dplyr` to perform data manipulation by filtering, selecting and mutating variables, and to obtain summaries. This talk will continue with an overview of visualisation techniques using base R and the package `ggplot2`. Throughout this session we will make use of R Markdown to create automating reproducible analysis.
 
 ## Computing requirements
 
@@ -57,7 +55,7 @@ Download the `.zip` source archive under "Zip/Tarballs". Extract the files to a 
 
 Download the relevant installer for your OS listed under "Installers for Supported Platforms". Run the installer to complete installation.
 
-## Issues
+## RStudio Cloud
 
 If you cannot get your computer set up, you will be able to use RStudio Cloud <https://rstudio.cloud/>.
 
